@@ -26,6 +26,7 @@
 ║                                                                                                  ║
 ║ ──────────────────────────────────────────────────────────────────────────────────────────────── ║
 ║   Signed in as: nico.grassetto  |  Company: Microsoft  |  Job: Solutions Engineer in AI Apps     ║
+║   Blog: nicograssetto.com                                                                        ║
 ║   Type /help for available commands or ask Nico anything!                                        ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
