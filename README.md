@@ -1,4 +1,31 @@
-<h1 align="center">Hi there, I'm Nico Grassetto 👋</h1>
-
-  <img src="https://komarev.com/ghpvc/?username=NicoGrassetto&color=blue&style=flat-square" alt="Profile views" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                  ║
+║    _   _ _              ____                          _   _                                      ║
+║   | \ | (_) ___ ___    / ___|_ __ __ _ ___ ___  ___ | |_| |_ ___                                 ║
+║   |  \| | |/ __/ _ \  | |  _| '__/ _` / __/ __|/ _ \| __| __/ _ \                                ║
+║   | |\  | | (_| (_) | | |_| | | | (_| \__ \__ \  __/| |_| || (_) |                               ║
+║   |_| \_|_|\___\___/   \____|_|  \__,_|___/___/\___| \__|\__\___/                                ║
+║                                                                                                  ║
+║   Builder.                                                                                       ║
+║   Technology enthusiast.                                                                         ║
+║   ─────────────────────────────────                                                              ║
+║                                                                                                  ║
+║   /build     | Things I'm shipping                                                               ║
+║   /learn     | What I'm exploring                                                                ║
+║   /explain   | Ideas & write-ups                                                                 ║
+║   /share     | Talks & community                                                                 ║
+║   /help      | Get in touch                                                                      ║
+║                                                                                                  ║
+║   ┌──────────────────────────────────────┐                                                       ║
+║   │ QUOTE                                │                                                       ║
+║   │ "Some quote"                         │                                                       ║
+║   └──────────────────────────────────────┘                                                       ║
+║                                                                                                  ║
+║   nico >  █                                                                                      ║
+║                                                                                                  ║
+║ ──────────────────────────────────────────────────────────────────────────────────────────────── ║
+║   Signed in as: nico.grassetto  |  Company: Microsoft  |  Job: Solutions Engineer in AI Apps     ║
+║   Type /help for available commands or ask Nico anything!                                        ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
