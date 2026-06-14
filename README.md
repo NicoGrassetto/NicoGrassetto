@@ -15,11 +15,11 @@
 ║   /learn     | What I'm exploring                                                                ║
 ║   /explain   | Ideas & write-ups                                                                 ║
 ║   /share     | Talks & community                                                                 ║
-║   /help      | Get in touch                                                                      ║
+║   /stack     | OpenCode, Ghostty, Helix                                                          ║
 ║                                                                                                  ║
 ║   ┌──────────────────────────────────────┐                                                       ║
 ║   │ QUOTE                                │                                                       ║
-║   │ "Simple is enough"                         │                                                       ║
+║   │ "Simple is enough"                         │                                                 ║
 ║   └──────────────────────────────────────┘                                                       ║
 ║                                                                                                  ║
 ║   nico >  █                                                                                      ║
