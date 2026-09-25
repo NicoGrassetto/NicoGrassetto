@@ -15,7 +15,7 @@
 ║   /learn     | What I'm exploring                                                                ║
 ║   /explain   | Ideas & write-ups                                                                 ║
 ║   /share     | Talks & community                                                                 ║
-║   /stack     | OpenCode, Ghostty, Helix                                                          ║
+║   /stack     | GitHub Copilot CLI, Alacritty, Neovim, tmux                                                          ║
 ║                                                                                                  ║
 ║   ┌──────────────────────────────────────┐                                                       ║
 ║   │ QUOTE                                │                                                       ║
